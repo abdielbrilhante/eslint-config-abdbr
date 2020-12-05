@@ -1,0 +1,17 @@
+{
+  "name": "eslint-config-abdbr",
+  "version": "1.0.0",
+  "description": "My custom ESLint configs I use across personal and enterprise projects",
+  "main": "index.js",
+  "repository": "git@github.com:abdielbrilhante/eslint-config-abdbr.git",
+  "author": "Abdiel Brilhante <abdielbrilhante@gmail.com>",
+  "license": "Apache-2.0",
+  "private": false,
+  "peerDependencies": {
+    "eslint": "^7.14.0"
+  },
+  "dependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint-plugin-react": "^7.21.5"
+  }
+}
